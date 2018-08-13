@@ -1,0 +1,26 @@
+############# front-end #################
+# dependencies
+chodocu-frontend/node_modules
+
+# testing
+chodocu-frontend/coverage
+
+# production
+chodocu-frontend/build
+
+# misc
+chodocu-frontend/.DS_Store
+chodocu-frontend/.env.local
+chodocu-frontend/.env.development.local
+chodocu-frontend/.env.test.local
+chodocu-frontend/.env.production.local
+
+chodocu-frontend/npm-debug.log*
+chodocu-frontend/yarn-debug.log*
+chodocu-frontend/yarn-error.log*
+############# front-end #################
+
+############# back-end ##################
+chodocu-backend/node_modules
+
+############# back-end ##################
